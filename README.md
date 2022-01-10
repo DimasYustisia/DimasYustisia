@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h2 dir="auto"></h2>
+
+<div align="center">
+  <a href="https://github.com/DimasYustisia">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DimasYustisia&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasYustisia&layout=compact&langs_count=7&theme=merko"/>
+  </a>
+</div><br/> 
+
 <!--
 **DimasYustisia/DimasYustisia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
